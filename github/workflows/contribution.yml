@@ -1,4 +1,4 @@
-name: Generate Commits, PRs & Issues
+name: Generate Commits, PRs & Issue
 
 on:
   workflow_dispatch:
